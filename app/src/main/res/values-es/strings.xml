@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TATETI</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="nuevaP">NUEVA PARTIDA</string>
+    <string name="nueva">Nueva Partida</string>
+    <string name="score">Puntaje</string>
+    <string name="p2">Jugador O:</string>
+    <string name="p1">Jugador X</string>
+    <string name="p3">Jugador X:</string>
+    <string name="inicial">0</string>
+    <string name="titulo">TA-TE-TI</string>
+    <string name="salir">Salir</string>
+    <string name="fin">FIN DEL JUEGO</string>
+    <string name="ini">NUEVO JUEGO</string>
+    <string name="tagNom1">Nombre de Jugador X</string>
+    <string name="tagNom2">Nombre de Jugador O</string>
+    <string name="enviar">COMENZAR JUEGO</string>
+    <string name="music">musica:</string>
+    <string name="ok">OK</string>
+</resources>
